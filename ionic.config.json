@@ -1,0 +1,7 @@
+{
+  "name": "FanId",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
